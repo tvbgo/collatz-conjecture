@@ -4,13 +4,19 @@
 
 # Setup
 
-Just clone this repo, go to your terminal and execute:
+Just clone this repo, go to your terminal and in this folder, execute:
 `ruby 3x_plus_one.rb`
 
 The terminal will prompt you to insert a number, the number can be a float or integer
 
 The algorithm will then loop until reaching 1, printing the steps and values along the way
 and the total steps taken to reach 1. 
+
+Example:
+
+
+![image](https://user-images.githubusercontent.com/68977332/194649401-ecc82786-fd1a-4a00-b05d-6cb3c72dd868.png)
+
 
 Enjoy! If any questions, please feel free to open an issue or PR with any additions.
 
